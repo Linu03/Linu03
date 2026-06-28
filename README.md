@@ -10,7 +10,7 @@
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-### Cloud & Data
+### Data
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
